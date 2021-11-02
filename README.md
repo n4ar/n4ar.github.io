@@ -21,7 +21,7 @@ I am a Roblox Developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4ar&theme=github_dark" height="230"/>
 </a>
 
-[1]: https://www.chokunplayz.com
+[1]: https://github.com/N4AR
 [2]: https://twitter.com/intent/follow?screen_name=n4ar_offical
 [3]: https://github.com/N4AR
 [4]: https://www.youtube.com/
