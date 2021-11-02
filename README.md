@@ -1,14 +1,13 @@
-[![ChokunPlayZ](https://github.com/ChokunPlayZ/ChokunPlayZ/raw/main/pictures/profile-readme/banner-1500x500.png)][1]
+[![N4AR](https://raw.githubusercontent.com/n4ar/n4ar.github.io/main/N4AR.png)][1]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=chokunplayz&color=FAC151)][5]
-[![youtube](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][4]
+[![GitHub Views](https://komarev.com/ghpvc/?username=n4ar&color=FAC151)][5]
 
 Hey 👋🏻,
 
 I am a CS Student and a Conent Creator, I'm mostly doing DevOps stuff but I do code sometimes.
 
 Languages
-PHP, HTML, CSS, JavaScript and NodeJS.
+???
 
 ## 📬 Socials
 
