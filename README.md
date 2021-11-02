@@ -1,4 +1,4 @@
-[![N4AR](https://raw.githubusercontent.com/n4ar/n4ar.github.io/main/N4AR.png)][1]
+[![N4AR](https://raw.githubusercontent.com/n4ar/n4ar.github.io/main/src.png)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=n4ar&color=FAC151)][5]
 
@@ -6,12 +6,8 @@ Hey 👋🏻,
 
 I am a CS Student and a Conent Creator, I'm mostly doing DevOps stuff but I do code sometimes.
 
-Languages
-???
-
 ## 📬 Socials
 
-- Web: [chokunplayz.com][1]
 - Twitter: [twitter.com/chokuntweets][2]
 - YouTube: [youtube.com/chokunplayz][3]
 
